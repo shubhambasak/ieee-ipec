@@ -140,3 +140,19 @@ See `docs/` folder for detailed documentation:
 ## 📞 Support
 
 For issues or questions, contact the webmaster team.
+
+
+
+
+
+
+## Contributing (Quick Start For IEEE-IPEC TECH TEAM)
+
+1. Accept the collaborator invite.
+2. Clone the repo:
+  git clone git@github.com:shubhambasak/ieee-ipec.git
+3. Create a branch:
+  git checkout -b feature/<yourname>-short-desc
+4. Make changes → Commit → Push:
+  git push origin feature/<yourname>-short-desc
+5. Open a Pull Request → Wait for review → Merge.
